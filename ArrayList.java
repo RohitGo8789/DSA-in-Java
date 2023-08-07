@@ -19,6 +19,12 @@ public class arrayList{
 
         System.out.println(list.size()); //it is used to get the size of an array list
 
+        //print the array list
+        for(int i = 0; i < list.size(); i++){
+            System.out.print(list.get(i)+" ");
+        }
+        System.out.println();
+
         //Get operation - O(1)
         // int element = list.get(3);
         // System.out.println(element);
