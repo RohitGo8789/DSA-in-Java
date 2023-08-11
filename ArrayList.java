@@ -6,7 +6,7 @@ public class arrayList{
         ArrayList<Boolean> list3 = new ArrayList<>();
         ArrayList<String> list4 = new ArrayList<>();
 
-        //Adding an element in array list
+        // Adding an element in array list
 
         list.add(1); //TC : O(1)
         list.add(2);
