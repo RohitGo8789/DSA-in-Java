@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pair_Sum1 {
+public class Pair_Sum1{
 
     public static boolean findSum(ArrayList<Integer> list, int target){
         
