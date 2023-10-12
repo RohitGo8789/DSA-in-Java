@@ -1,5 +1,5 @@
 import java.util.*;
-public class ArrayList_Assignment {
+public class ArrayList_Assignment{
 
     //Q1
     public static boolean monotone(ArrayList<Integer> nums){
