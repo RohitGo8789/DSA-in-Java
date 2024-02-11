@@ -1,4 +1,4 @@
-public class LastOccurence_Array {
+public class LastOccurence_Array{
     public static int LastOccur(int arr[], int key, int i){
         if(i==arr.length){
             return -1;
